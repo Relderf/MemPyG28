@@ -18,7 +18,7 @@ Instrucciones de uso:
         cd E:\Python\Grupo28\trabajo
 
 5) Ejecutamos el archivo 'mempy.py' con la siguiente linea:
-    run.py
+    python mempy.py
 
 
 
@@ -27,4 +27,10 @@ Gracias, y que te diviertas!
 
 
 ---[Lore, Nacho, Maxi (2021)]---
+
+Proyecto realizado como trabajo final de cursada de seminario de Python, UNLP Informática 2021.
+Miembros:
+Piedras Arcieri, Maximiliano Nahuel
+Othaz, Lorena
+Traberg, Ignacio León
 
