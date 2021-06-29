@@ -30,7 +30,7 @@ Gracias, y que te diviertas!
 
 Proyecto realizado como trabajo final de cursada de seminario de Python, UNLP Informática 2021.
 Miembros:
-Piedras Arcieri, Maximiliano Nahuel
-Othaz, Lorena
-Traberg, Ignacio León
+**Piedras Arcieri, Maximiliano Nahuel**<br/>
+**Othaz, Lorena**<br/>
+**Traberg, Ignacio León**
 
