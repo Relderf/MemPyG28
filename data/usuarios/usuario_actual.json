@@ -1,0 +1,22 @@
+{
+    "Relderf": {
+        "Contraseña": "123456",
+        "Edad": "30",
+        "Género": "Masculino",
+        "Configuración": {
+            "Dificultad": "Fácil",
+            "Nivel_estático": false,
+            "Nivel_inicial": 1,
+            "Nivel_actual": 1,
+            "Fichas": "Palabras",
+            "Tema": "TanBlue",
+            "Mensajes": {
+                "Victoria": "¡That's all, folks!",
+                "Puntaje": "¡Eso fue un nuevo record! :)",
+                "Derrota": "Perdiste :( mejor suerte la próxima"
+            },
+            "Record": 858,
+            "Recordar_usuarie": true
+        }
+    }
+}
