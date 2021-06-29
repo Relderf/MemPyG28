@@ -28,8 +28,8 @@ Gracias, y que te diviertas!
 
 ---[Lore, Nacho, Maxi (2021)]---
 
-Proyecto realizado como trabajo final de cursada de seminario de Python, UNLP Informática 2021.
-Miembros:
+Proyecto realizado como trabajo final de cursada de seminario de Python, UNLP Informática 2021.<br/>
+Miembros:<br/>
 **Piedras Arcieri, Maximiliano Nahuel**<br/>
 **Othaz, Lorena**<br/>
 **Traberg, Ignacio León**
